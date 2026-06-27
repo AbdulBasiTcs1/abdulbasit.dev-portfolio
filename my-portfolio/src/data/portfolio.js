@@ -44,3 +44,28 @@ export const skillGroups = [
     items: ['Git', 'GitHub', 'GitLab', 'Vite', 'Firebase', 'Figma'],
   },
 ];
+
+
+export const experience = [
+  {
+    year: '2025 - Present',
+    title: 'Full Stack Developer',
+    company: 'Freelance / Personal Projects',
+    description:
+      'Building modern web applications using React, Node.js, Express, MongoDB, and responsive UI design.',
+  },
+  {
+    year: '2024 - 2025',
+    title: 'Frontend Developer',
+    company: 'React Projects',
+    description:
+      'Created responsive websites, portfolio designs, landing pages, dashboards, and reusable React components.',
+  },
+  {
+    year: '2023 - 2024',
+    title: 'Web Development Learner',
+    company: 'Self Learning',
+    description:
+      'Learned HTML, CSS, JavaScript, Git, React, API integration, and modern frontend development workflows.',
+  },
+];

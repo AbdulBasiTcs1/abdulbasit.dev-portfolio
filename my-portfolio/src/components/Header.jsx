@@ -1,5 +1,7 @@
+// experience one was missed from me 
+// const navItems = ['Home', 'About', 'Skills', 'Projects', 'Contact'];
+const navItems = ['Home', 'About', 'Skills', 'Projects', 'Experience', 'Contact'];
 
-const navItems = ['Home', 'About', 'Skills', 'Projects', 'Contact'];
 
 function Header() {
   return (

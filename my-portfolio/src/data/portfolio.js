@@ -46,6 +46,33 @@ export const skillGroups = [
 ];
 
 
+export const projects = [
+  {
+    title: 'Project One',
+    description: 'A full-stack web application built with React and Node.js.',
+    tech: ['React', 'Node.js', 'MongoDB'],
+    image: '/images/projects/project-1.png',
+    liveUrl: '#',
+    githubUrl: 'https://github.com/AbdulBasiTcs1',
+  },
+  {
+    title: 'Project Two',
+    description: 'A responsive front-end project with modern UI/UX design.',
+    tech: ['React', 'Tailwind CSS', 'Firebase'],
+    image: '/images/projects/project-2.png',
+    liveUrl: '#',
+    githubUrl: 'https://github.com/AbdulBasiTcs1',
+  },
+  {
+    title: 'Project Three',
+    description: 'A REST API backend with Express.js and PostgreSQL.',
+    tech: ['Node.js', 'Express.js', 'PostgreSQL'],
+    image: '/images/projects/project-3.png',
+    liveUrl: '#',
+    githubUrl: 'https://github.com/AbdulBasiTcs1',
+  },
+];
+
 export const experience = [
   {
     year: '2025 - Present',
